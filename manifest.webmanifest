@@ -1,0 +1,16 @@
+{
+  "name": "Sixfold — learn guitar",
+  "short_name": "Sixfold",
+  "description": "Six strings, one step at a time: a guided path from your first chord to advanced harmony, with lessons, theory, a tuner and chords that listen back.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1C1512",
+  "theme_color": "#1C1512",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,1 @@
+import{l as e}from"./store-DnLWjlj_.js";var t=e();function n(e,n){(0,t.useEffect)(()=>{if(window.innerWidth>=700)return;let t=document.querySelector(e),n=t?.parentElement;t&&n&&n.scrollTo({left:t.offsetLeft-n.offsetLeft-16,behavior:`smooth`})},[n])}export{n as t};
